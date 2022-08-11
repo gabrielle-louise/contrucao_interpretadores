@@ -1,0 +1,5 @@
+4
+abbabb
+ababab
+aaaaaa
+bababa
